@@ -1,0 +1,13 @@
+h2, h5{
+  color: blue;
+}
+.head-text {
+  color: green;
+}
+#id-select {
+  color: red;
+}
+p {
+  color: purple;
+  background-color: yellow;
+}
